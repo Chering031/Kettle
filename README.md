@@ -10,10 +10,7 @@ Since Contigo ~~Thermos~~ is no longer being actively developed or not being dev
 
 # Kettle
 
-<!--![Build Status](https://travis-ci.org/djoveryde/Contigo.svg?branch=master)](https://travis-ci.org/djoveryde/Contigo)
--->
-
-[![Minecraft Forge 1.12.2-14.23.2.2611](https://img.shields.io/badge/Forge-1.12.2--14.23.2.2611-orange.svg?style=for-the-badge)](http://files.minecraftforge.net/)
+[![Minecraft Forge 1.12.2-14.23.4.2759](https://img.shields.io/badge/Forge-1.12.2--14.23.4.2759-orange.svg?style=for-the-badge)](http://files.minecraftforge.net/)
 [![Minecraft 1.12.2](https://img.shields.io/badge/Minecraft-1.12.2-green.svg?style=for-the-badge)](http://minecraft.net)
 [![JDK 1.8](https://img.shields.io/badge/JDK-8-blue.svg?style=for-the-badge)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
@@ -28,28 +25,12 @@ Kettle is a fork of Contigo, which, sadly, didn't contribute much outside of min
 We hope to eliminate all issues with craftbukkit forge servers. In the end, we envision a seamless, low lag Kettle experience with support for new 1.8+ versions of Minecraft.
 
 ## Installation
-<!--Click [here](http://cyberdynecc.github.io/Thermos/install)-->
 coming soon
 
-<!--- ### Downloads
-#You can download the pre-built packages from [here](https://github.com/CyberdyneCC/Thermos/releases). 
---->
-**Kettle is still __very raw__ and you may encounter issues in using it with your server. You have been warned!**
+**:warning: Kettle is still __very raw__ and you may encounter issues in using it with your server. You have been warned!**
 
 ## Chat
-
 You are welcome to visit Kettle Discord server [here](https://discord.gg/RqDjbcM)
 
-## Building Kettle
-
-### Requirements
-* Forge 1.12.2-14.23.2.2611
-* Minecraft 1.12.2
-
-WIP
-
-### How to build
-WIP
-
-## Known Issues
-WIP
+## Unstable/Test builds
+For unstable/test builds [get over here](https://github.com/KettleFoundation/Kettle/tree/kettle-java)
